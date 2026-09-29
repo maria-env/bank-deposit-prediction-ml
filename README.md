@@ -35,4 +35,4 @@ Los cuadernos se pueden abrir con Jupyter o con Google Colab.
 
 ## Autoría
 
-Trabajo en equipo de María Arias Rodríguez y Jorge Castañeda.
+Trabajo en equipo de María Arias Rodríguez y Jorge Ignacio Castañeda Vallenilla.
